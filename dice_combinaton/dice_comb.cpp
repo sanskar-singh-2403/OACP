@@ -25,4 +25,4 @@ int main(){
     ll ans=comb(n);
     cout<<ans<<'\n';
     return 0;
-}
+} 
