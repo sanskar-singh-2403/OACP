@@ -1,0 +1,23 @@
+TestFile 1:
+
+Test: 
+    7 
+    8 9 6 -3 0 2 -5
+
+o/p:- 432
+
+TestFile 2:
+
+Test: 0
+
+O/p : 0
+
+
+TestFile 3:
+
+Test: 
+
+    4
+    4 3 -1 6
+
+O/P : 12

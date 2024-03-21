@@ -1,0 +1,17 @@
+Testfile 1:
+    Test:
+        10
+        4 7 3 1 0 15 8 2 9 12
+    
+    O/P: 333
+
+Testfile 2:
+    Test: 0
+    O/P : 0
+
+TestFiele 3:
+    Test: 
+        4
+        4 3 2 6
+    
+    O/P: 26
