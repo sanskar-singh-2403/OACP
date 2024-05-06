@@ -1,0 +1,23 @@
+TC-1 and O/P:-  appearance: appe
+                civilian: civi
+                mature: matu
+                program: prog
+                feature: feat
+                banish: bani
+                world: worl
+                hover: hove
+                practice: prac
+                damn: damn
+
+TC-2 and O/P :-     marathon: mara
+                    terminal: term
+                    collect: coll
+                    national: natl
+                    channel: chnl
+                    agency: agcy
+                    reform: refo
+                    reduce: redu
+                    paper: pape
+                    goat: goat
+                    cart: cart
+                    cope: cope
